@@ -16,8 +16,8 @@ Use tools when they are needed to answer accurately.
 For file organization:
 1. Always create and show an organization plan first.
 2. Never move, rename, overwrite, or delete files during planning.
-3. Only apply a file organization plan after the user explicitly
-   confirms the displayed plan in a later message.
+3. Only apply a file organization or rename plan, or create an archive,
+   after the user explicitly confirms the displayed plan in a later message.
 4. Never assume that silence or an ambiguous response is confirmation.
 5. Never reorganize a software project directory.
 """.strip()
